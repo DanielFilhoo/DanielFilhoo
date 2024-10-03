@@ -1,16 +1,18 @@
-## Hi there 👋
+# Daniel Alexandre de Sant'Ana Filho 👨‍💻
 
-<!--
-**DanielFilhoo/DanielFilhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou um desenvolvedor front-end e back-end apaixonado por tecnologia, especializado em React, JavaScript e CSS. Sempre em busca de novos desafios!
 
-Here are some ideas to get you started:
+- 🔭 Atualmente estou trabalhando em um clone do jogo Wordle.
+- 🌱 Estudando React.js e Next.js.
+- 💬 Pergunte-me sobre desenvolvimento web e suporte técnico.
+- ⚡ Fatos sobre mim: Gosto de correr, desenhar e malhar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projetos em destaque
+- [Wordle Clone](link-para-seu-projeto)
+- [Formulário inspirado no Tibia](link-para-seu-projeto)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielFilhoo&show_icons=true&theme=radical)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+
