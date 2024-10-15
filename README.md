@@ -8,6 +8,7 @@ Olá! Sou um desenvolvedor front-end e back-end apaixonado por tecnologia, espec
 - ⚡ Fatos sobre mim: Gosto de correr, desenhar e malhar!
 
 ## Projetos em destaque
+  [Meu Portfólio](https://portifolio-jgya.vercel.app/index.html)
 - [Wordle Clone](link-para-seu-projeto)
 - [Formulário inspirado no Tibia](link-para-seu-projeto)
 
@@ -15,4 +16,3 @@ Olá! Sou um desenvolvedor front-end e back-end apaixonado por tecnologia, espec
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-
